@@ -19,15 +19,17 @@ box-sizing: border-box;
 
 }
 
-.quote {
+.quote{
   padding: 20px 40px;
   background-color: #FFF89A;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .btnContainer {
 
   margin-top: 20px;
-  border-radius: 10px;
+ 
 }
 
 .btnContainer  button {
